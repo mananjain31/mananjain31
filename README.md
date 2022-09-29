@@ -1,5 +1,7 @@
+# Hi 👋, I'm Manan Jain
+
 [![@mananjain31's Holopin board](https://holopin.io/api/user/board?user=mananjain31)](https://holopin.io/@mananjain31)
-<h1 align="center">Hi 👋, I'm Manan Jain</h1>
+
 <h3 align="center">A passionate fullstack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananjain31&label=Profile%20views&color=0e75b6&style=flat" alt="mananjain31" /> </p>
 
