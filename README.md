@@ -1,13 +1,11 @@
+[![@mananjain31's Holopin board](https://holopin.io/api/user/board?user=mananjain31)](https://holopin.io/@mananjain31)
 <h1 align="center">Hi 👋, I'm Manan Jain</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananjain31&label=Profile%20views&color=0e75b6&style=flat" alt="mananjain31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mananjain31" alt="mananjain31" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
-
-- 👯 I’m looking to collaborate on **React, Express, Django**
+- 👯 I’m looking to collaborate on **React, Express and Django.**
 
 - 📫 How to reach me **mananjain31jan@gmail.com**
 
